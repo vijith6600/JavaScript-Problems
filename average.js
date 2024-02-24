@@ -110,3 +110,47 @@
 
 
 
+
+// // Create a function called 'fullName' that takes the first part of your name and the last part of your name as parameters. 
+// // And it will return your full name as the output by concatenating the two parts of your name.
+// //  For example, given hablu and kanto as input parameters, hablu will return kanto as output.
+
+// function fullName(firstNmae,lastName){
+//     return console.log(`${firstNmae} ${lastName}`);
+// }
+
+
+// fullName("vijith","vijayan")
+
+
+
+
+// Write a function that if you give a number as input it will square that number and return that square.
+
+// That is, if you give 5 as input, it will get 25 as output squared.
+
+// function square(number){
+//     return console.log(number**2);
+// }
+
+// square(2)
+
+
+
+
+// // Write a function called foo() which prints "foo" and a function called bar() which prints "bar".
+// //  Call function bar() in the foo() function after printing. What will be the output?
+// //   Now call the foo() to see the output.
+
+// function  foo(){
+//     console.log('foo');
+//     Bar()
+// }
+
+// function Bar(){
+//     console.log('Bar')
+// }
+
+// foo()
+
+
