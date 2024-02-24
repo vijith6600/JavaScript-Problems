@@ -178,3 +178,23 @@
 // number=[2,4]
 
 //  console.log(make_avg(number));
+
+
+
+
+
+
+// // Write a function called odd_even() which takes an integer value and tells whether this value is even or odd. You need to do it in 4 ways:
+// // Has return+ Has parameter
+// // No return+Has parameter
+
+// function odd_even(number){
+// number%2==0?console.log("Number is even"):console.log("number is odd");;
+// }
+
+// odd_even(8)
+
+
+
+
+
