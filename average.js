@@ -154,3 +154,27 @@
 // foo()
 
 
+
+// // Write a function called make_avg() which will take an three integers and return the average of those values.
+
+// function average(num1,num2,num3){
+//     return (num1+num2+num3)/3;
+// }
+// console.log(average(4,66,8));
+
+
+
+// // Challenging: Write a function called make_avg() which will take
+// //  an array of integers and the size of that array and return the average of those values.
+
+// function make_avg(array){
+//     sum=0;
+// for(let item of array){
+//     sum+=item;
+// }
+// return  sum/array.length;
+// }
+
+// number=[2,4]
+
+//  console.log(make_avg(number));
