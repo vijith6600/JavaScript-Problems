@@ -62,20 +62,51 @@
 
 
 
-// check the traingle is isosuless or not
+// // check the traingle is isosuless or not
 
-side1 =80
-side2=80
-side3=80
+// side1 =80
+// side2=80
+// side3=80
 
-if(side1==side2 && side1==side3 && side2==side3){
-    console.log(" is a equalatral trangle");
-}
-else if(side1==side2 || side1==side3 || side2==side3){
-    console.log("trangle is isosuless");
-}
+// if(side1==side2 && side1==side3 && side2==side3){
+//     console.log(" is a equalatral trangle");
+// }
+// else if(side1==side2 || side1==side3 || side2==side3){
+//     console.log("trangle is isosuless");
+// }
 
-else{console.log("Traingle is not ispsulus");}
+// else{console.log("Traingle is not ispsulus");}
+
+
+
+
+
+// // Print all number bitween 58 and 98
+
+// let start = 58;
+// let end = 98;
+// for(let i=start;i<=end;i++){
+//     console.log(i);
+// }
+
+// // print all even number bitween 10  to 40
+
+// let start = 10
+// let end = 20
+// for(let i=start;i<=end;i++) {
+//     i%2==0?console.log(`${i}`):null
+// }
+
+
+
+// // print all the odd number bitween number
+
+// start=1
+// end=10
+
+// for(i=start;i<end;i++){
+//     (i % 2 != 0) ? console.log(i) : null
+// }
 
 
 
