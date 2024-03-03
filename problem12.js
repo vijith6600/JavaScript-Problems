@@ -30,3 +30,13 @@ const oddNumbers = [ 1, 3, 5, 7, 9 ] ;
  const EvenArray = oddNumbers.map(item=>item+1)
  console.log(EvenArray);
 
+
+//  Array divisible by 10 using filter method
+
+data=[33, 50, 79, 78, 90, 101, 30 ]
+const  divisiblebyTen = data.filter(item=>item%10===0)
+console.log(divisiblebyTen);
+
+const   divisiblebyTenUsingFind = data.find(item=>item%10===0)
+console.log(divisiblebyTenUsingFind);
+
