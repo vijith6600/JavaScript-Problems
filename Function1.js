@@ -10,6 +10,9 @@
 // reverse("hello")
 
 
-// wite a function to reverse a number
 
+// wite a function to reverse a number
+function reverseNum(num){
+    
+}
 
