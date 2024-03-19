@@ -13,6 +13,12 @@
 
 // wite a function to reverse a number
 function reverseNum(num){
-    
+    num = num.toString();  
+    let reversedNum = '';   
+    for (let i = num.length - 1; i >= 0; i--) {
+        reversedNum += num[i];
+    }
+    return parseInt(reversedNum);
 }
 
+ console.log(reverseNum(123));

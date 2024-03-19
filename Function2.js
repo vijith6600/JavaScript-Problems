@@ -1,12 +1,9 @@
-// Write a javascript function to Cjeck the word start with Caps or not
+// Check the phone number
 
-
-function checkCaps(word){
-    if(word[0]=="A"){
-        console.log("caps");
-    }else{
-        console.log("Not caps");
-    }
+function check(num){
+    num.length=="10"?console.log("Valid number"):console.log("invalid number");;
 }
 
-checkCaps()
+check(1234567890)
+num="1234567890"
+console.log(num.length);
